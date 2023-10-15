@@ -7,8 +7,7 @@ This code is a simple C program that uses the X11 library to control the display
 1. [Overview](#overview)
 2. [Usage](#usage)
 3. [Adapting the Code](#adapting-the-code)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [License](#license)
 
 ## Overview
 
